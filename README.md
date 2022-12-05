@@ -15,8 +15,16 @@ Dataset
 * Contact information
 
 # Methods
-
+Prognostic analysis process based on WSI of Colorectal Cancer Histopathology Images
+![main process](https://github.com/caicai2526/Colon-multi-features/blob/main/Fig/fig1.jpg)
+  1. Using Deeptissue Net to segment different tissue region
+![Deeptissue Net](https://github.com/caicai2526/Colon-multi-features/blob/main/Fig/fig2.jpg)
+  2. Using Deeptissue Net to extract deep features and fusion
+![extract deep feature](https://github.com/caicai2526/Colon-multi-features/blob/main/Fig/fig3.jpg)
+  3. Pathomic feature extraction based on cancerous regions
 # Experiment setup
 
 # Contact information 
 If you have any questions, feel free to contact me. Chengfei Cai, Nanjing University of Information Science and Technology, Nanjing, China. Email: chengfeicai@nuist.edu.cn
+
+
