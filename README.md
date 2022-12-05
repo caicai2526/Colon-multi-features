@@ -9,10 +9,15 @@ The code in this progject will reproduce the results in our paper submitted to B
 Some mat file we will upload [Baidu Cloud](https://pan.baidu.com/s/1sBv8m233kp0tz2ngcac0RA), pwd: x0jk 
 
 # Outline
-Dataset
+* Dataset
 * Methods
 * Experiment setup
 * Contact information
+
+# Dataset
+> there are a total of 660 WSI colorectal cancer pathology images in the dataset, and the dataset comes from two units.
+> * Nanfang Hospital of Southern Medical University (SMU) 
+> * Guangdong Provincial People’s Hospital (GD).
 
 # Methods
 > ### Prognostic analysis process based on WSI of Colorectal Cancer Histopathology Images
